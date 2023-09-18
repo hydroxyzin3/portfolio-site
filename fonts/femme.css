@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SKFemmeFatale';
+    src: local('SK Femme Fatale Regular'), local('SK-Femme-Fatale-Regular'),
+        url('SKFemmeFatale-Regular.woff2') format('woff2'),
+        url('SKFemmeFatale-Regular.woff') format('woff'),
+        url('SKFemmeFatale-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
